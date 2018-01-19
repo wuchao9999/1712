@@ -29,8 +29,13 @@ export default {
 	margin-left: 20px;
 }
 .header-2{
-	width: 700px;
 	height: 30px;
+	background: white;
+	margin:5px 12px;
+	font-size: 14px;
+	color: #ccc;
+	text-align: center;
+	line-height: 30px;
 }
 
 </style>
